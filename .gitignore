@@ -76,3 +76,6 @@ nltk_data/
 # Archivos de sesión
 .session
 *.session
+
+# Archivos virtuales
+.virtual_documents/
