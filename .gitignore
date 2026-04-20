@@ -1,0 +1,78 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datasets (¡MUY IMPORTANTE! - No subir los datasets)
+AirPollutionSeoul/
+*.csv
+*.zip
+*.parquet
+*.json
+*.geojson
+
+# Variables de entorno y secretos
+.env
+*.pem
+*.key
+*.token
+kaggle.json
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Modelos guardados
+*.pth
+*.pt
+*.h5
+*.model
+*.weights
+*.bin
+saved_models/
+
+# Logs
+*.log
+logs/
+
+# Archivos de caché de Kagglehub
+kagglehub_cache/
+.cache/
+
+# Archivos de NLTK (si se usaran)
+nltk_data/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Archivos de geopandas/cartopy (caché)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Archivos de sesión
+.session
+*.session
