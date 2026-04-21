@@ -123,6 +123,19 @@ pip install -r requirements.txt
 - `tqdm`
 - `session-info`
 
+### 4. Ejecutar el notebook
+
+Finalmente, lanza Jupyter Notebook para abrir el archivo principal:
+```bash
+jupyter notebook Seoul_Air_Pollution_Analysis.ipynb
+```
+
+### 5. (Opcional) Descargar el dataset
+
+El notebook descargará automáticamente el dataset desde Kaggle usando `kagglehub`. Si es la primera vez, asegúrate de tener configuradas tus credenciales de Kaggle.
+
+***
+
 ## 📈 Hallazgos Principales
 
 | Contaminante | Hallazgo Clave |
