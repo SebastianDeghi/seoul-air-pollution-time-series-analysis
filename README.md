@@ -150,7 +150,7 @@ El notebook descargará automáticamente el dataset desde Kaggle usando `kaggleh
 - Picos idénticos extremadamente altos en PM10/PM2.5 (saturación de sensores >950 µg/m³) → reemplazados por NaN
 - Valores negativos en SO2 (errores instrumentales) → reemplazados por NaN
 
----
+***
 
 ## 🗺️ Visualizaciones Incluidas
 
@@ -161,7 +161,7 @@ El notebook descargará automáticamente el dataset desde Kaggle usando `kaggleh
 - Análisis espectral (periodograma) para ciclos diarios de NO2
 - Comparación de estaciones cerca vs. lejos de autopistas
 
----
+***
 
 ## 📚 Dependencias
 
@@ -171,13 +171,13 @@ El notebook descargará automáticamente el dataset desde Kaggle usando `kaggleh
 - `kagglehub` (para descarga del dataset)
 - `jupyter`, `session-info`
 
----
+***
 
 ## 📄 Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
----
+***
 
 ## 🙏 Agradecimientos
 
@@ -185,7 +185,7 @@ Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICE
 - **Gobierno Metropolitano de Seúl** por proporcionar los datos abiertos
 - **Seoul Open Data Plaza** y **Air Quality Analysis Center**
 
----
+***
 
 ## 👤 Autor
 
